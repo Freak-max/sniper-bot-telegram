@@ -1,0 +1,46 @@
+[
+  {
+    "name": "balance",
+    "file": "src/commands/balance.js"
+  },
+  {
+    "name": "buy",
+    "file": "src/commands/buy.js"
+  },
+  {
+    "name": "cancel",
+    "file": "src/commands/cancel.js"
+  },
+  {
+    "name": "help",
+    "file": "src/commands/help.js"
+  },
+  {
+    "name": "positions",
+    "file": "src/commands/positions.js"
+  },
+  {
+    "name": "sell",
+    "file": "src/commands/sell.js"
+  },
+  {
+    "name": "settings",
+    "file": "src/commands/settings.js"
+  },
+  {
+    "name": "snipe",
+    "file": "src/commands/snipe.js"
+  },
+  {
+    "name": "snipes",
+    "file": "src/commands/snipes.js"
+  },
+  {
+    "name": "start",
+    "file": "src/commands/start.js"
+  },
+  {
+    "name": "wallet",
+    "file": "src/commands/wallet.js"
+  }
+]
